@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
+  "name": "RAMESH_RD",
+  "description": "Javascript WhatsApp bot made by R.B Ramesh Randeepa",
   "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "keywords": ["RAMESH_RD"],
   "success_url": "/",
 
   "env": {
